@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi... , I am Alan Jaison<br>Currently studying B-tech CS-DS at  Christ College Of Engineering 
 
 
 # 💻 Tech Stack:
@@ -10,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjaison-pro&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alanjaison-pro&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alanjaison-pro&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alanjaison-pro&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
